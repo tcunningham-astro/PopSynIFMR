@@ -1,0 +1,12 @@
+This repository contains the tabulated IFMR from Cunningham et al. 2023 
+So far the IFMR included is for the default parameters of the intial
+stellar population:
+
+n_sample=1e5
+milky_way_disk_age=10e9
+alpha=2.35
+M_init_min=0.5
+M_init_max=11.0
+Z=0.02
+remove_mergers=True
+DA_only=True
